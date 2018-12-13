@@ -10,7 +10,7 @@ namespace Big
 		Color(float red, float green, float blue, float alpha = 1.0f);
 		~Color();
 
-		float operator[] (int index);
+		float& operator[] (int index);
 
 		// RGBA Values 0.0 - 1.0
 		float color[4];

@@ -5,3 +5,7 @@ BigEngine/bin/Debug/intermediates
 BigEngine/bin/Debug/logs/*.*
 BigEngine/bin/Release/intermediates
 BigEngine/bin/Release/logs/*.*
+BigEngine/bin/Debug/*.exe
+BigEngine/bin/Debug/*.ilk
+BigEngine/bin/Debug/*.pbd
+BigEngine/bin/Debug/BigEngine.pdb
