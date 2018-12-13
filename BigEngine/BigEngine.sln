@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BigEngine", "BigEngine\BigEngine.vcxproj", "{3429C1DB-696A-4449-B30C-34427775F50B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3429C1DB-696A-4449-B30C-34427775F50B}.Debug|x64.ActiveCfg = Debug|x64
+		{3429C1DB-696A-4449-B30C-34427775F50B}.Debug|x64.Build.0 = Debug|x64
+		{3429C1DB-696A-4449-B30C-34427775F50B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3429C1DB-696A-4449-B30C-34427775F50B}.Debug|x86.Build.0 = Debug|Win32
+		{3429C1DB-696A-4449-B30C-34427775F50B}.Release|x64.ActiveCfg = Release|x64
+		{3429C1DB-696A-4449-B30C-34427775F50B}.Release|x64.Build.0 = Release|x64
+		{3429C1DB-696A-4449-B30C-34427775F50B}.Release|x86.ActiveCfg = Release|Win32
+		{3429C1DB-696A-4449-B30C-34427775F50B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E877FB9B-C84D-4103-B7B9-B0A4C68ED8BA}
+	EndGlobalSection
+EndGlobal
